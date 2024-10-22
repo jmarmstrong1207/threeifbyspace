@@ -23,12 +23,12 @@ Silicon Valley project is to create a mobile application for Three If By Space u
 <img src = "image/cart.png" width ="150"> &nbsp;  <img src = "image/addtocart.png" width ="150"> &nbsp;  <img src = "image/comic.png" width ="150"> &nbsp;  <img src = "image/category.png" width ="150">
 
 ## Testing
-The test folder contains all the test files to test all the functions and classes. The names of the files ends with the 'test.dart'. After opening the testing file, click on the run on the top of the main function.<br><br>
+The test folder contains all the test files to test all the functions and classes. The names of the files end with 'test.dart'. After opening the testing file, click on "run" at the top of the main function.<br><br>
 
 <img src = "image/test.png" width ="850">
 
 ## Deployment
-The TiBS app is developed for iOS and Android plateforms. The deployment is process is different for both plateforms.
+The TiBS app is developed for iOS and Android platforms. The deployment process is different for both platforms.
 
 ### iOS deployment instructions
 
@@ -54,7 +54,7 @@ Software needed for development:
 - Open up either an Android or iOS emulator on the bottom right by clicking on the platform button 
 
 ![image](https://user-images.githubusercontent.com/32995055/231955223-3cc77feb-3e36-4085-987e-2f59a377700c.png)
-- Choose either iOS or android emulator 
+- Choose either iOS or Android emulator 
 
 ![image](https://user-images.githubusercontent.com/32995055/231955273-8f92ffde-fbde-48c9-b235-547560a9138a.png)
 - Run the program from main.dart 
@@ -65,7 +65,7 @@ Software needed for development:
 
 ## Tech Stack
 1. Flutter Framework
-2. Dart programmnig Language.
+2. Dart programming Language.
 3. MySQL Database 
 4. CENTOS 07 OS Linux Server
 5. VS Code IDE

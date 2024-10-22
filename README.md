@@ -3,6 +3,7 @@
 <img src = "image/logo.png" width ="200">  <img src = "image/flutter-logo.jpeg" width ="270" align = "center">  <img src = "image/saclogo.png" width ="120">
 
 
+*Note: The source code of the project is closed per the request of the owner. If you would like to see the source code, reach out to me via email.*
 
 ## Synopsis
 
